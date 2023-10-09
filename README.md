@@ -1,2 +1,2 @@
-# URBANHACK-hackathon-detectiong-windows-on-construction-site-images-
+# URBANHACK-hackathon
 Detecting and classifying windows on large-scale construction site images
